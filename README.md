@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Link de heroku https://cryptic-earth-81826.herokuapp.com/students
